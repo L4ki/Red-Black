@@ -7,3 +7,8 @@ Changelog 27.07.2019.
 Modified icons: start.svg, system.svg
 
 Modified widgets: clock.svg, scrollbar.svg
+
+Changelog: 09.08.2019.
+----------------------
+
+Added widget: line.svg
