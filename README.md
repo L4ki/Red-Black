@@ -18,4 +18,4 @@ Changelog: 13.09.2019.
 
 Modified widget: clock.svg
 
-Added icons: batterj.svg, input.svg
+Added icons: battery.svg, input.svg
