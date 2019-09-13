@@ -12,3 +12,10 @@ Changelog: 09.08.2019.
 ----------------------
 
 Added widget: line.svg
+
+Changelog: 13.09.2019.
+----------------------
+
+Modified widget: clock.svg
+
+Added icons: batterj.svg, input.svg
