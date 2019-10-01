@@ -19,3 +19,10 @@ Changelog: 13.09.2019.
 Modified widget: clock.svg
 
 Added icons: battery.svg, input.svg
+
+Changelog: 01.10.2019.
+----------------------
+
+Modified widgets: scrollbar.sg, clock.svg
+
+Corrected icon: media.svg
