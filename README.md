@@ -23,6 +23,6 @@ Added icons: battery.svg, input.svg
 Changelog: 01.10.2019.
 ----------------------
 
-Modified widgets: scrollbar.sg, clock.svg
+Modified widgets: scrollbar.svg, clock.svg
 
 Corrected icon: media.svg
