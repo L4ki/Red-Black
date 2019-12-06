@@ -26,14 +26,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="-7.5984145"
-     inkscape:cy="32.755464"
+     inkscape:cx="-38.393055"
+     inkscape:cy="-2.7500421"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -990,7 +990,7 @@
        y="37" />
     <path
        inkscape:label="#center-9"
-       style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;stroke:none;display:inline"
+       style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;stroke:none;display:inline"
        id="center"
        d="m 12,59 0,-32 32,0 0,32 -32,0 z" />
     <g
@@ -999,7 +999,7 @@
        id="bottom"
        inkscape:label="#g3684">
       <path
-         style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
          id="path3690"
          d="m 58,56 0,2 31.999998,0 0,-2 c -0.01197,-6.7e-4 -0.02242,0 -0.03448,0 L 58.034483,56 C 58.022422,56 58.011969,55.99933 58,56 z"
          transform="matrix(1,0,0,-1,44,470.36204)" />
@@ -1015,7 +1015,7 @@
        id="left"
        inkscape:label="#g3700">
       <path
-         style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
          id="path3678"
          d="m 63.000037,129 0,13 L 64,142 c 6.68e-4,-0.0217 0,-0.0406 0,-0.0625 l 0,-12.875 c 0,-0.0219 6.68e-4,-0.0408 0,-0.0625 l -0.999963,0 z"
          transform="matrix(-2,0,0,-2.4615385,228.00007,729.90065)" />
@@ -1031,7 +1031,7 @@
        id="right"
        inkscape:label="#g3677">
       <path
-         style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
          id="path2679"
          d="m 134.00007,412.36218 0,-32 1.99993,0 c 0.001,0.0534 0,0.0999 0,0.15385 l 0,31.69231 c 0,0.0539 0.001,0.10043 0,0.15384 l -1.99993,0 z" />
       <path
@@ -1047,14 +1047,14 @@
       <path
          d="m 90,56 0,1 c 0.552,0 1,0.448 1,1 l 1,0 c 0,-1.104 -0.896,-2 -2,-2 z"
          id="path3702"
-         style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;display:inline"
+         style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;display:inline"
          transform="matrix(1,0,0,-1,44,470.36218)" />
       <path
          style="fill:#0a0a0a;fill-opacity:1;display:inline"
          id="path3698"
          d="m 134,415.36218 0,-1 c 1.104,0 2,-0.896 2,-2 l 1,0 c 0,1.656 -1.344,3 -3,3 z" />
       <path
-         style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;display:inline"
+         style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;display:inline"
          id="path3700"
          d="m 134,413.36218 0,-1 1,0 c 0,0.552 -0.448,1 -1,1 z" />
     </g>
@@ -1069,12 +1069,12 @@
          d="m 90,55 0,1 c 1.104,0 2,0.896 2,2 l 1,0 c 0,-1.656 -1.344,-3.000001 -3,-3 z"
          transform="matrix(-1,0,0,-1,192,470.36218)" />
       <path
-         style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;display:inline"
+         style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;display:inline"
          id="path3708"
          d="m 90,57 0,1 1,0 c 0,-0.552 -0.448,-1.000001 -1,-1 z"
          transform="matrix(-1,0,0,-1,192,470.36218)" />
       <path
-         style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;display:inline"
+         style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;display:inline"
          id="path3710"
          d="m 90,56 0,1 c 0.552,0 1,0.448 1,1 l 1,0 c 0,-1.104 -0.896,-2 -2,-2 z"
          transform="matrix(-1,0,0,-1,192,470.36218)" />
@@ -1099,11 +1099,11 @@
                  id="path3670"
                  style="fill:#0a0a0a;fill-opacity:1" />
               <path
-                 style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1"
+                 style="opacity:0.9;fill:#1e1e1e;fill-opacity:1"
                  id="path3672"
                  d="m 90,57 0,1 1,0 c 0,-0.552 -0.448,-1.000001 -1,-1 z" />
               <path
-                 style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1"
+                 style="opacity:0.9;fill:#1e1e1e;fill-opacity:1"
                  id="path3674"
                  d="m 90,56 0,1 c 0.552,0 1,0.448 1,1 l 1,0 c 0,-1.104 -0.896,-2 -2,-2 z" />
             </g>
@@ -1128,12 +1128,12 @@
            transform="translate(44,322.36218)"
            d="m 90,57 0,1 1,0 c 0,-0.552 -0.448,-1.000001 -1,-1 z"
            id="path3629"
-           style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;display:inline" />
+           style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;display:inline" />
         <path
            transform="translate(44,322.36218)"
            d="m 90,56 0,1 c 0.552,0 1,0.448 1,1 l 1,0 c 0,-1.104 -0.896,-2 -2,-2 z"
            id="path3641"
-           style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;display:inline" />
+           style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;display:inline" />
       </g>
     </g>
     <g
@@ -1148,7 +1148,7 @@
            transform="translate(44,322.36218)"
            d="m 58,56 0,2 31.999998,0 0,-2 c -0.01197,-6.7e-4 -0.02242,0 -0.03448,0 L 58.034483,56 C 58.022422,56 58.011969,55.99933 58,56 z"
            id="path2667"
-           style="opacity:0.80000000000000004;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+           style="opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
         <path
            transform="translate(44,322.36218)"
            d="m 58,55 0,0.99986 31.999998,0 0,-0.99986 c -0.01197,-3.2e-4 -0.02242,0 -0.03448,0 L 58.034483,55 C 58.022421,55 58.011969,54.99968 58,55 z"

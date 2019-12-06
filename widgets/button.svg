@@ -22,8 +22,8 @@
    sodipodi:version="0.32"
    id="svg2">
   <sodipodi:namedview
-     inkscape:window-height="977"
-     inkscape:window-width="1280"
+     inkscape:window-height="1033"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -34,8 +34,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="5.2833865"
-     inkscape:cx="53.674377"
-     inkscape:cy="154.78066"
+     inkscape:cx="19.699955"
+     inkscape:cy="63.929839"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -85,6 +85,18 @@
   </metadata>
   <defs
      id="defs5">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3326">
+      <stop
+         style="stop-color:#ff85a6;stop-opacity:1;"
+         offset="0"
+         id="stop3322" />
+      <stop
+         style="stop-color:#ff85a6;stop-opacity:0;"
+         offset="1"
+         id="stop3324" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3184">
       <stop
@@ -12629,17 +12641,6 @@
        cy="30"
        r="42" />
     <radialGradient
-       inkscape:collect="always"
-       xlink:href="#radialGradient10592-81-3-5-8-8"
-       id="radialGradient13670"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.72475641,0.00207937,-3.7935892e-4,0.04643201,14.048262,28.501191)"
-       cx="51"
-       cy="30"
-       r="42"
-       fx="51"
-       fy="30" />
-    <radialGradient
        gradientTransform="matrix(0.72146,0,0,0.27484,14.205,21.755)"
        r="42"
        cy="30"
@@ -13294,6 +13295,17 @@
        y1="796.99933"
        x2="208"
        y2="779.31116" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3326"
+       id="radialGradient3328"
+       cx="51"
+       cy="63.219349"
+       fx="51"
+       fy="63.219349"
+       r="42"
+       gradientTransform="matrix(1,0,0,0.08632622,0,24.393818)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
      height="27"
@@ -13570,7 +13582,7 @@
     <path
        transform="matrix(1,0,0,1.5625,432.09,515.16)"
        d="M 9,30 C 9,21.163 27.804,14 51,14 74.196,14 93,21.163 93,30 H 51 z"
-       style="opacity:0.4625;color:#000000;fill:url(#radialGradient13670)"
+       style="opacity:0.4625;color:#000000;fill:url(#radialGradient3328);fill-opacity:1"
        id="path34506-3-4-0-6-2"
        inkscape:connector-curvature="0" />
   </g>

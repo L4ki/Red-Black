@@ -5,35 +5,20 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 54 32"
-   id="svg2"
-   version="1.1"
+   version="1.0"
+   width="99.353256pt"
+   height="100.00436pt"
+   viewBox="0 0 99.353256 100.00436"
+   docname="start.svg"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg7"
    sodipodi:docname="start.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
-     id="namedview17"
-     showgrid="false"
-     inkscape:zoom="5.6296296"
-     inkscape:cx="-9.1480263"
-     inkscape:cy="16"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <metadata
-     id="metadata21">
+     id="metadata11">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -45,69 +30,72 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      </style>
+     id="defs9">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient866">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop862" />
+      <stop
+         style="stop-color:#a33553;stop-opacity:1"
+         offset="1"
+         id="stop864" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient866"
+       id="radialGradient870"
+       cx="496.76627"
+       cy="500.02179"
+       fx="496.76627"
+       fy="500.02179"
+       r="496.76627"
+       gradientTransform="matrix(3.2532016,2.6250702,-0.39706477,0.49207512,-920.77349,-1050.0728)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="1.898665"
+     inkscape:cx="12.143293"
+     inkscape:cy="68.720744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7"
+     showguides="false" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <g
-     id="16-16-start-here-kde"
-     transform="translate(0,13)">
+     transform="matrix(0.1,0,0,-0.1,0,100.00436)"
+     id="start-here-kde"
+     style="fill:#ffc107;stroke:none">
     <path
-       style="opacity:1;fill:none"
-       d="M -16,3 -16,19 0,19 0,3 -16,3 Z"
-       id="path17" />
-    <g
-       id="g4177-3"
-       transform="matrix(0.75291705,0,0,0.75,-333.77463,-391.59302)">
-      <path
-         id="path11"
-         style="fill:#ff557f;fill-opacity:1"
-         transform="matrix(1.3281676,0,0,1.3333333,443.30864,504.79069)"
-         d="M -11 18 A 1 1 0 0 0 -12 19 A 1 1 0 0 0 -11 20 A 1 1 0 0 0 -10 19 A 1 1 0 0 0 -11 18 z M -6 18 L -7.5 19.5 L -5 22 L -7.5 24.5 L -6 26 L -2 22 L -6 18 z M -13 22.5 A 1 1 0 0 0 -14 23.5 A 1 1 0 0 0 -13 24.5 A 1 1 0 0 0 -12 23.5 A 1 1 0 0 0 -13 22.5 z M -9.5 27 A 1.5 1.5 0 0 0 -11 28.5 A 1.5 1.5 0 0 0 -9.5 30 A 1.5 1.5 0 0 0 -8 28.5 A 1.5 1.5 0 0 0 -9.5 27 z "
-         class="ColorScheme-Text" />
-    </g>
-  </g>
-  <g
-     transform="translate(1,-1)"
-     id="22-22-start-here-kde">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:none"
-       id="rect4150"
-       width="22"
-       height="22"
-       x="-1"
-       y="11" />
-    <g
-       id="g4177"
-       transform="matrix(1.0038894,0,0,1,-424.36617,-514.7907)">
-      <path
-         id="path16"
-         style="fill:#ff557f;fill-opacity:1"
-         transform="matrix(0.99612567,0,0,1,421.72591,515.7907)"
-         d="m 7,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 7,0 -2,2 3,3 -3,3 2,2 5,-5 -5,-5 z M 4.5,19 A 1.5,1.5 0 0 0 3,20.5 1.5,1.5 0 0 0 4.5,22 1.5,1.5 0 0 0 6,20.5 1.5,1.5 0 0 0 4.5,19 Z M 9,25 a 2.0000001,2 0 0 0 -2,2 2.0000001,2 0 0 0 2,2 2.0000001,2 0 0 0 2,-2 2.0000001,2 0 0 0 -2,-2 z"
-         class="ColorScheme-Text" />
-    </g>
-  </g>
-  <g
-     transform="translate(-46,-1)"
-     id="start-here-kde">
-    <rect
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3343"
-       width="32"
-       height="32"
-       x="68"
-       y="1" />
-    <path
-       id="path20"
-       style="fill:#ff557f;fill-opacity:1"
-       transform="translate(46,1)"
-       d="M 32 4 A 1.5 1.5 0 0 0 30.5 5.5 A 1.5 1.5 0 0 0 32 7 A 1.5 1.5 0 0 0 33.5 5.5 A 1.5 1.5 0 0 0 32 4 z M 42.5 4 L 39.5 7 L 44 11.5 L 39.5 16 L 42.5 19 L 50 11.5 L 42.5 4 z M 28.5 13 A 2.5 2.5 0 0 0 26 15.5 A 2.5 2.5 0 0 0 28.5 18 A 2.5 2.5 0 0 0 31 15.5 A 2.5 2.5 0 0 0 28.5 13 z M 35 22 A 3 3 0 0 0 32 25 A 3 3 0 0 0 35 28 A 3 3 0 0 0 38 25 A 3 3 0 0 0 35 22 z "
-       class="ColorScheme-Text" />
+       d="m 3.4090304,444.28396 c 34.7999996,254.9 343.0999996,398.5 512.8999996,377.8 223.8,-27.4 467.1,-272.2 424.3,-532.9 90.39997,130.1 61.69997,380.5 -61,532.5 -135,167.3 -378.2,224.90004 -584.8,138.5 -195.3,-81.6 -317.1,-295.9 -291.3999996,-515.9 z m 139.3999996,-291 c 181.7,-202.9 519,-204.2 694.7,-4.9 80.4,91.2 99.6,195.2 58.8,309.6 -27.4,76.7 -74.6,140.3 -136.8,202.6 128.8,-274 -91.7,-507.1 -322.4,-548.4 -102.3,-18.4 -200.7,-10.1 -294.3,41.1 z m 148.2,576.2 c -117.3,-58.8 -214.5,-135.7 -238.2,-275.5 -26.3,-154.7 83.9,-295.9 241.1,-304.9 46.9,-2.7 94,-0.4 141,0.7 -83.1,12.3 -147.1,59.5 -195.9,121.7 -25.4,32.5 -50.6,64.2 -63.8,105.8 -36.2,114.8 12.5,231.9 88.3,321.7 8.8,10.4 18.3,20.3 27.5,30.5 z m -35.8,-40.6 c 0,0 -218.6,-292.1 96.9,-512.9 l -65.8,-10.9 -181.7,165.2 84.6,314.3 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:url(#radialGradient870);fill-opacity:1" />
   </g>
 </svg>
