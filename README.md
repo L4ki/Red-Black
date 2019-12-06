@@ -26,3 +26,8 @@ Changelog: 01.10.2019.
 Modified widgets: scrollbar.svg, clock.svg
 
 Corrected icon: media.svg
+
+Changelog: 06.12.2019.
+----------------------
+
+Redesigned Theme
